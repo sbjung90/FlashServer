@@ -1,0 +1,54 @@
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:27.664Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:27.666Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:28.035Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:28.044Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:28.045Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:28.038Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:28.040Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:12:28.056Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.085Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.086Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.477Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.482Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.484Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.475Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.481Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:14:47.487Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.080Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.084Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.376Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.377Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.382Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.378Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.379Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:21:28.381Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:04.802Z"}
+{"log":"sharding init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:04.801Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:05.107Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:05.108Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:05.109Z"}
+{"log":"User init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:05.103Z"}
+{"log":"Message init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:05.104Z"}
+{"log":"Club init Call","level":"info","message":"","timestamp":"2019-10-18T11:25:05.105Z"}
+{"log":"request=>{\"cmd\":1001,\"info\":[\"2B5D5248-6EE3-4B39-9BC3-8B5763240327\"],\"bidx\":0}","level":"info","message":"","timestamp":"2019-10-18T11:38:05.652Z"}
+{"log":"bidx : 0","level":"info","message":"","timestamp":"2019-10-18T11:38:05.653Z"}
+{"log":"strQuery : SELECT * FROM u_info WHERE u_uuid_vc=?;","level":"info","message":"","timestamp":"2019-10-18T11:38:05.653Z"}
+{"log":"args : 2B5D5248-6EE3-4B39-9BC3-8B5763240327","level":"info","message":"","timestamp":"2019-10-18T11:38:05.653Z"}
+{"log":"bidx : 0","level":"info","message":"","timestamp":"2019-10-18T11:38:05.696Z"}
+{"log":"strQuery : INSERT INTO  u_info SET ?;","level":"info","message":"","timestamp":"2019-10-18T11:38:05.697Z"}
+{"log":"args : [object Object]","level":"info","message":"","timestamp":"2019-10-18T11:38:05.697Z"}
+{"log":"bidx : 0","level":"info","message":"","timestamp":"2019-10-18T11:38:05.713Z"}
+{"log":"strQuery : SELECT * FROM  u_info WHERE u_idx_i=?;","level":"info","message":"","timestamp":"2019-10-18T11:38:05.713Z"}
+{"log":"args : 1","level":"info","message":"","timestamp":"2019-10-18T11:38:05.714Z"}
+{"log":"return data : {\"cmd\":1001,\"rnd\":6075493,\"errno\":0,\"isNew\":1,\"info\":{\"u_idx_i\":1,\"u_uuid_vc\":\"2B5D5248-6EE3-4B39-9BC3-8B5763240327\",\"u_facebook_vc\":null,\"u_name_vc\":null,\"u_platform_ti\":0,\"u_star_i\":0,\"u_coin_i\":0,\"u_heart_i\":5,\"u_heart_fill_time_dt\":null,\"u_unlimit_heart_dur_i\":0,\"u_unlimit_heart_end_time_dt\":null,\"u_item0_i\":-1,\"u_item1_i\":-1,\"u_item2_i\":-1,\"u_item3_i\":-1,\"u_item4_i\":-1,\"u_max_stage_i\":1,\"u_spent_i\":0,\"u_reg_ts\":\"2019-10-18 11:38:06\",\"u_last_login_ts\":\"2019-10-18 11:38:06\",\"u_update_ts\":\"2019-10-18 11:38:05\",\"u_is_facebook_logged_in_ti\":false,\"u_facebook_rewarded_ti\":false,\"u_watched_intro_movie_ti\":false,\"u_quest_floor_i\":1,\"u_quest_id_i\":1,\"u_quest_list_jsn_txt\":null,\"u_home_jsn_txt\":null,\"u_side_jsn_txt\":null,\"u_page_gift_name_list_jsn_txt\":null,\"u_story_read_list_jsn_txt\":null,\"u_last_attend_date_i\":0,\"u_day_attend_i\":0,\"u_init_data_ti\":0,\"u_merge_i\":1571398685,\"u_g_idx_i\":0,\"u_gpoint_i\":0,\"u_ghelper_i\":0}}","level":"info","message":"","timestamp":"2019-10-18T11:38:05.723Z"}
+{"log":"request=>{\"cmd\":1005,\"rnd\":6075493,\"info\":[1,{\"u_idx_i\":1,\"u_uuid_vc\":\"2B5D5248-6EE3-4B39-9BC3-8B5763240327\",\"u_facebook_vc\":null,\"u_name_vc\":null,\"u_platform_ti\":2,\"u_star_i\":0,\"u_coin_i\":0,\"u_heart_i\":5,\"u_item0_i\":-1,\"u_item1_i\":-1,\"u_item2_i\":-1,\"u_item3_i\":-1,\"u_item4_i\":-1,\"u_heart_fill_time_dt\":null,\"u_unlimit_heart_dur_i\":0,\"u_unlimit_heart_end_time_dt\":null,\"u_max_stage_i\":1,\"u_quest_floor_i\":1,\"u_quest_id_i\":1,\"u_quest_list_jsn_txt\":[{\"id\":\"1\",\"completed\":false,\"assignSequenceCompleted\":false,\"successSequenceCompleted\":false,\"showRemove\":false,\"showCreate\":false}],\"u_home_jsn_txt\":{\"buildingList\":[{\"placeList\":[{\"floorList\":[{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]}]},{\"floorList\":[{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]},{\"dirty\":true,\"furnitureList\":[],\"activeFurnitureList\":[]}]}]}],\"hasDeco\":[],\"activateDeco\":[]},\"u_side_jsn_txt\":{\"sideObjList\":[0,0,10131,0,0,0,0,0,0]},\"u_page_gift_name_list_jsn_txt\":[],\"u_story_read_list_jsn_txt\":[],\"u_last_attend_date_i\":0,\"u_day_attend_i\":0,\"u_watched_intro_movie_ti\":false,\"u_is_facebook_logged_in_ti\":false,\"u_facebook_rewarded_ti\":false,\"u_spent_i\":0,\"u_g_idx_i\":0,\"u_gpoint_i\":0,\"u_ghelper_i\":0,\"u_init_data_ti\":0,\"u_merge_i\":1571398685,\"playerDataVersion\":0,\"profileUrl\":null},\"1571398685\"],\"bidx\":0}","level":"info","message":"","timestamp":"2019-10-18T11:38:05.774Z"}
+{"log":"bidx : 0","level":"info","message":"","timestamp":"2019-10-18T11:38:05.778Z"}
+{"log":"strQuery : SELECT * FROM u_info WHERE u_idx_i= ? ;","level":"info","message":"","timestamp":"2019-10-18T11:38:05.778Z"}
+{"log":"args : 1","level":"info","message":"","timestamp":"2019-10-18T11:38:05.778Z"}
+{"log":"bidx : 0","level":"info","message":"","timestamp":"2019-10-18T11:38:05.783Z"}
+{"log":"strQuery : UPDATE u_info SET ? WHERE u_idx_i=? AND u_merge_i <= ?","level":"info","message":"","timestamp":"2019-10-18T11:38:05.785Z"}
+{"log":"args : [object Object],1,1571398685","level":"info","message":"","timestamp":"2019-10-18T11:38:05.785Z"}
+{"log":"return data : {\"cmd\":1005,\"rnd\":null,\"errno\":0,\"uuid\":1}","level":"info","message":"","timestamp":"2019-10-18T11:38:05.795Z"}
+{"log":"bidx : 0","level":"info","message":"","timestamp":"2019-10-18T11:38:05.795Z"}
+{"log":"strQuery : INSERT INTO l_merge  SET ?; ","level":"info","message":"","timestamp":"2019-10-18T11:38:05.795Z"}
+{"log":"args : [object Object]","level":"info","message":"","timestamp":"2019-10-18T11:38:05.796Z"}

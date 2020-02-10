@@ -1,0 +1,175 @@
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] JSpW [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 12596   12602 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:3.706[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m     
+[0] NdT0 [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 12628   12657 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.93[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m     
+[0] AJT0 [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 12674   12707 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.35[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m       
+[0] kOj8 [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 12815   12821 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:27.138[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] RdQA [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 12860   12883 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.111[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] xRXw [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 12900   13024 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:4.935[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] Fb6u [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13052   13221 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:4.691[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] 6v7x [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13246   13364 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:4.739[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m     
+[0] YL9S [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13388   13414 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.68[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m     
+[0] ehSo [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13431   13457 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.63[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] AIHw [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13474   13495 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.116[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m         
+[0] Ff6v [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13512   13518 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:16:47:52.217[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m       
+[0] 35RW [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 14804   15788 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:13.369[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] _tQG [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 15815   23041 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:8.736[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] kKih [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 23073   24753 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:2.282[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m  [35mlogfile[39m                                             [33muptime[39m      
+[0] 6n5V [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 24777   3488 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:1.866[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m         
+[0] sEAE [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 3736    10253 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:2.613[39m    
+[1] _n2j [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 4355    4361  [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m8:19:10:32.813[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] Sj2m [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 10279   11436 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:3.171[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] MGim [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 16216   16326 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:2.106[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m  [35mlogfile[39m                                             [33muptime[39m      
+[0] P8H_ [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 16737   3056 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:2.687[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m  [35mlogfile[39m                                             [33muptime[39m      
+[0] Lz77 [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 3081    6328 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.510[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] JahT [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 6352    21454 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:2.803[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] 9Wta [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 21488   25465 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:1.550[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m  [35mlogfile[39m                                             [33muptime[39m       
+[0] ZQKj [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 14255   6910 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:1:3:21.444[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] yn8P [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 7903    11148 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:0.408[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] agBY [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 11172   11486 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:2.628[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m       
+[0] an5R [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 11510   13626 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:3:34.374[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m             [90mscript[39m                                   [37mforever[39m [37mpid[39m   [35mlogfile[39m                                             [33muptime[39m      
+[0] 0EJc [90m/usr/local/bin/node[39m [90m/var/www/html/kingdoms_node_dev/index.js[39m 13694   14093 [35m/var/www/html/kingdoms_node_dev/log/forever_log.log[39m [33m0:0:0:1.690[39m 
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mindex.js[39m
